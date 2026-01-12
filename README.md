@@ -9,7 +9,7 @@
 
 - **Frontend:** HTML, CSS, JavaScript
 - **Design:** Figma
-- **Outras ferramentas:** VSCode, GitHub
+- **Outras ferramentas:** VS Code, GitHub
 
 <br>
 
